@@ -2,7 +2,7 @@
  *  m3d.c
  *  xtest
  *
- *  Created by Akira on 10/02/09.
+ *  Created by  on 10/02/09.
  *  Copyright 2010 東京工業大学付属科学技術高等学校. All rights reserved.
  *
  */
